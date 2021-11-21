@@ -4,4 +4,8 @@
 
 ### シリーズ
 
+-[Nature Pack](./nature.md)
 -[Village Pack](./village.md)
+
+### 共通TIPS
+
