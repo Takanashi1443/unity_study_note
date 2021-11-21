@@ -5,6 +5,7 @@
 ### シリーズ
 
 -[Nature Pack](./nature.md)
+-[Halloween Pack](./halloween.md)
 -[Village Pack](./village.md)
 
 ### 共通TIPS
