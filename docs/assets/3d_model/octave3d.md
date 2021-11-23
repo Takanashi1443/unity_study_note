@@ -38,7 +38,7 @@ Levelなどの名前で親となるGameObjectをCreate Emptyする。
 
 プレハブのプレビュー表示中も、新たにProjectビューからプレハブをD\&Dすると登録可能。
 
-### プレハブの配置
+#### プレハブの配置
 
 Prefab Manageウィンドウでプレハブを選択した上でシーンビュー上にカーソルを置くと、グリッドの高さでプレハブを配置するような配置プレビューが出る。
 
@@ -74,7 +74,7 @@ Nキー
 Uキー
 : グリッドにスナップする\/しないを切り替える。
 
-### オブジェクト配置される親のGameObjectを設定（ObjectGroup）
+#### オブジェクト配置される親のGameObjectを設定（ObjectGroup）
 
 通常、HierachyはWorld BuilderがアタッチされているGameObjectなどに配置したい。
 
