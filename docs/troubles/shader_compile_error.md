@@ -2,6 +2,19 @@
 
 -[目次へ](./)
 
+### 全部ピンクになる
+
+HDRP専用など、URP非対応のアセットはURPだと全部ピンクになる。
+
+![Standardシェーダが割り当てられてピンクになったモデル](./media/shader_error_pink.png)
+
+ピンク色のオブジェクトを選択して、マテリアルに割り当てられているShaderが「Standard」（あるいはHDRPにおいて標準的なシェーダ）であれば、一括して変換できる。
+
+「Edit」→「Render Pipeline」→「Universal Rendering Pipeline」→「Upgrade Project Materials To UniversalRP Materials」
+
+![一括して変換](./media/shader_error_pink_upgrade.png)
+
+
 ### Couldn't open include file 'Packages/com.unity.render-pipelines.lightweight/ShaderLibrary/Core.hlsl'
 
 (2020.3.23f1にて)
