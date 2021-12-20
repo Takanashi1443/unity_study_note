@@ -27,3 +27,7 @@ Unity上でモデルを製作できる。
 - [FANTASTIC Nature Pack](./3d_model/fantastic/nature.md)
 - [FANTASTIC Village Pack](./3d_model/fantastic/village.md)
 - [FANTASTIC Halloween Pack](./3d_model/fantastic/Halloween.md)
+
+### 3Dキャラクター
+
+#### [Very Animation](./3d_character/very_animation/index.md)

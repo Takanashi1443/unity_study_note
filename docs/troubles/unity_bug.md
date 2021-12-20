@@ -23,4 +23,11 @@
 
 Auto Refreshなしを試そうかと思ったが、リフレッシュに似た動作がちょくちょく起こるのにリフレッシュされない、Ctrl+Rを受け付けていない場合があるなど、とにかく紛らわしい挙動が多いので諦めた。
 
+### Visual Studio Editor Package version X.Y.Z is available...という警告が出る
+
+[このページ](https://baba-s.hatenablog.com/entry/2021/07/14/180000)を参照。
+
+「Package Manager」→「In Project」→「Visual Studio」→「Upgrade to X.Y.Z」を押す。
+
+プロジェクトごとに実行する必要がある。
 

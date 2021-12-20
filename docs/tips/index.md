@@ -17,8 +17,12 @@
 -[ライティング（基本）](./typical_way/lighting_basic.md))
 -[ライティング（屋内）](./typical_way/lighting_inside.md))
 
+
 ### [Blender](./blender/index.md)
 
 3DモデルソフトとしてBlenderを使用する。
 
 -[Unityへの使用を想定してfbxで書き出す](./blender/export_fbx.md)
+
+### [アニメーション](./animation/index.md)
+
